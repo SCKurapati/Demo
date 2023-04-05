@@ -1,5 +1,0 @@
-<!-- Variable names are standard. -->
-<config DTSXPath   = "D:\Target\SSIS" 
-		RDLPath    = "D:\Target\SSRS"
-		Servername = 'LAPTOP-DDPJVA3F\SCKURAPATI' DBname='CCDD'
-/>
